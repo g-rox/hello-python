@@ -23,7 +23,7 @@ git clone https://github.com/szrdr/simple-calculator-python.git
 
 Go to the project directory
 ```
-cd simple-calculator-python
+cd calculator
 ```
 
 Open app.py
